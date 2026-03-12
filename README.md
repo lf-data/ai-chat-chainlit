@@ -25,6 +25,7 @@ Applicazione chat basata su **Chainlit** con:
 - [Integrazione Tavily](#integrazione-tavily)
 - [Script amministrativi utenti/password](#script-amministrativi-utentipassword)
 - [Troubleshooting](#troubleshooting)
+- [Licenza e Changelog](#licenza-e-changelog)
 
 ---
 
@@ -293,3 +294,9 @@ python scripts/create_user.py --identifier user@example.com --password "Password
 # cambia password
 python scripts/update_password.py --identifier user@example.com --password "NuovaPassword123!"
 ```
+---
+
+## Licenza e Changelog
+
+- Licenza progetto: [LICENSE](LICENSE)
+- Storico modifiche: [CHANGELOG.md](CHANGELOG.md)
